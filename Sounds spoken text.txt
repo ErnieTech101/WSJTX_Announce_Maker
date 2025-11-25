@@ -1,19 +1,20 @@
-x_Testing			Testing your default audio device
-x_Zone				New Zone
-xContinent			New continent
-xContinentOnBand	New continent on band
-xCQ					CQ
-xCQZone				New CQ Zone
-xCQZoneOnBand		New CQ Zone on Band
-xDXcall				DX
-xDXCC				New DXCC
-xDXCCOnBand			New DXCC on band
-xGrid				New grid
-xGridOnBand			New grid on band
-xITUZone			New ITU Zone
-xITUZoneOnBand		New ITU Zone on Band
-xMessage			Message
-xMyCall				Calling your
-xTesting_long		Testing you audio setting. If you can hear this on your speakers, your settings are correct. However, if you hear this on your transceiver or other device, your audio settings are incorrect
-xTesting123			Testing 1, 2, 3
-xWanted				Wanted
+.wav file name      The actual spoken words
+
+_Testing.wav			  Testing your default audio device
+_zone.wav           New Zone
+Continent.wav			  New continent
+ContinentOnBand.wav	New continent on band
+CQ.wav					    CQ
+CQZone.wav				  New CQ Zone
+CQZoneOnBand.wav		New CQ Zone on Band
+DXcall.wav				  DX
+DXCC.wav				    New DXCC
+DXCCOnBand.wav			New DXCC on band
+Grid.wav				    New grid
+GridOnBand.wav			New grid on band
+ITUZone.wav			    New ITU Zone
+ITUZoneOnBand.wav		New ITU Zone on Band
+Message.wav			    Message
+MyCall.wav				  Calling you
+Testing_long.wav		Testing you audio setting. If you can hear this on your speakers, your settings are correct. However, if you hear this on your transceiver or other device, your audio settings are incorrect
+Wanted.wav				  Wanted
