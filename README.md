@@ -19,14 +19,14 @@ in the first step.
 - In a CMD window, go to the directory you created and saved the files into.
 - Run the script `python Announce_wav.py`
 - Here's how it goes:
-- 
+
 --- Edge-TTS Neural Announcer (Voice: en-GB-SoniaNeural) ---
 Output Format: WAV (48kHz, 16-bit, Mono, 768kbps)
 Type 'exit' to quit.
 
 ========================================
 Enter the announcement text: New CQ Zone on Band
-Enter filename (e.g. 'alert01'): CQZoneOnBand
+Enter filename (e.g. 'alert01'): CQZoneOnBand       <- Hey, put in whatever you want!
 Downloading neural audio for: 'New CQ Zone On Band'...
 Success! Saved as: C:\WSJTX Sounds Project\CQZoneOnBand.wav
 
