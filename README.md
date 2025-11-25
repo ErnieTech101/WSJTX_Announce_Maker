@@ -10,4 +10,6 @@ Go to [Gyan.dev FFmpeg builds](https://www.gyan.dev/ffmpeg/builds/) Download the
 folder and in the ./bin directory, look for the files: ffmpeg.exe, ffplay.exe & ffprobe.exe. Copy just those three files into the directory you created 
 in the first step.
 
-Next, download the Python script  is located.
+Next, from this repository, download the Python script `Announce_wav.py` into the same directory.
+
+Finally, install the required Python modules, `pip install pydub` and Google Translate `pip install gTTS'
