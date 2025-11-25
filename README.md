@@ -12,7 +12,7 @@ in the first step.
 
 - Next, from this repository, download the Python script `Announce_wav.py` into the same directory.
 
-- Before you run it, install the required Python modules, `pip install pydub` and Google Translate `pip install edge-tts`
+- Before you run it, install the required Python modules, `pip install pydub` and Microsoft Edge Text-to-Speech `pip install edge-tts`
 
 ### So how do you use it? Simple!
 
