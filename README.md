@@ -11,11 +11,11 @@
 folder and in the ./bin directory, look for the files: ffmpeg.exe, ffplay.exe & ffprobe.exe. Copy just those three files into the directory you created 
 in the first step.
 
-- Next, from this repository, download the Python script `Announce_wav.py` into the same directory.
+- Next, from MY repository (the one you're in now), download the Python script `Announce_wav.py` and put it into the same directory.
 
 - Before you run it, install the required Python modules, `pip install pydub` and Microsoft Edge Text-to-Speech `pip install edge-tts`
 
-### So how do you use it? Simple!
+## So how do you use it? Simple!
 
 - In a CMD window, go to the directory you created and saved the files into.
 - Run the script `python Announce_wav.py`
@@ -26,11 +26,15 @@ Output Format: WAV (48kHz, 16-bit, Mono, 768kbps)
 Type 'exit' to quit.
 
 ========================================
-Enter the announcement text: New CQ Zone on Band
-Enter filename (e.g. 'alert01'): CQZoneOnBand       <- Hey, put in whatever you want!
-Downloading neural audio for: 'New CQ Zone On Band'...
-Success! Saved as: C:\WSJTX Sounds Project\CQZoneOnBand.wav
+- Enter the announcement text: New CQ Zone on Band <- Put in any text you want
+- Enter filename (e.g. 'alert01'): CQZoneOnBand
+- Downloading neural audio for: 'New CQ Zone On Band'...
+- Success! Saved as: C:\WSJTX Sounds Project\CQZoneOnBand.wav
 
-- Now you can do over all the WSJT-X announcements located in ./bin/sounds to your hearts content
+It will save to whatever directory you're working in. Then just copy the files to C:\WSJT-X\bin\sounds
 
-Have fun!
+## Now you can do over all the WSJT-X announcements to your hearts content
+
+## Have fun!
+
+
