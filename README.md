@@ -1,14 +1,13 @@
 ## How to make your own WSJT-X announcements - No microphone needed!
 
-### Create a directory to do all your creation work. 
 
 
-### Download: Go to the [Gyan.dev FFmpeg builds](https://www.gyan.dev/ffmpeg/builds/) (the standard source for Windows).
+### First, create a directory to do all your fancy voice creation work. 
+- Any directory will do since all of the files will live there, together...in peace and harmony : )
 
-Select: Download the file labeled ffmpeg-git-essentials.7z (or .zip).
+### Download the needed FFMpeg utility
+Go to [Gyan.dev FFmpeg builds](https://www.gyan.dev/ffmpeg/builds/) Download the file labeled `ffmpeg-git-essentials.7z` (or .zip). Unzip to some temp
+folder and in the ./bin directory, look for the files: ffmpeg.exe, ffplay.exe & ffprobe.exe. Copy just those three files into the directory you created 
+in the first step.
 
-Extract: Unzip the folder.
-
-Locate Binaries: Go into the extracted folder and find the bin folder. You will see three files: ffmpeg.exe, ffplay.exe, and ffprobe.exe.
-
-The "Quick Fix": Copy these three .exe files and paste them directly into the same folder where your Python script (voice_gen.py) is located.
+Next, download the Python script  is located.
