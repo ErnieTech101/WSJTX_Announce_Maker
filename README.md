@@ -1,11 +1,9 @@
-## How to make your own WSJT-X announcements - No microphone needed!
-## While there is nothing wrong with the spoken audio that you can enable in WSJT-X to announce things like CQ heard or New DXCC on the band, maybe
-you'd like to have your own custom announcement! And with a really natural sounding Microsoft Edge TTS 'Sonia' British voice. Well now you can! -
+# How to make your own WSJT-X announcements - No microphone needed!
+## While there is nothing wrong with the spoken audio that you can enable in WSJT-X to announce things like CQ heard or New DXCC on the band, maybe you'd like to have your own custom announcement! And with a really natural sounding Microsoft Edge TTS 'Sonia' British voice. Well now you can! -
 
+### First: Make sure you  have Python 3.x.x installed! If you don't, go figure out how to install it.
 
-### Make sure you  have Python 3.x.x installed! If you don't, go figure out how to install it.
-
-### First, create a directory to do all your fancy voice creation work. 
+### Then create a directory to do all your fancy voice creation work. 
 - Any directory will do since all of the files will live there, together...in peace and harmony : )
 
 ### Download the needed Files
